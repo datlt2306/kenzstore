@@ -22,5 +22,11 @@ console.log(listName[2]); // true
 /**
  * 1. git init
  * 2. git remote add origin [link repository]
+ *   Lần đầu
+ *   2.1 git config --global user.email "datlt2306@gmail.com"
+ *   2.2 git config --global user.name "Le Trong Dat"
  * 3. git add .
+ * 4. git commit -m "init project"
+ * 5. git push origin
+ * 6. git push --set-upstream origin main
  */
